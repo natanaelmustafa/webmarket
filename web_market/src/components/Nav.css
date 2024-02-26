@@ -1,0 +1,37 @@
+nav.menu{
+    flex-grow: 10;
+    font-size: 1.4rem;
+    height: 50px;
+}
+.menu-item a{
+    display: flex;
+    flex:1 1 16rem;
+    justify-content: center;
+    align-items: center;
+    padding:1rem;
+}
+.menu-item a:hover{
+    background: gray;
+    color: white;
+}
+.authentication{
+    font-size: 1.4rem;
+}
+.authentication button{
+    font-size: 1.4rem;
+}
+aside.logo img{
+    padding: 0px 15px;
+    width: 80px;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+div.header{
+    color: gray;
+    background-color: #f3f1f1;
+    box-shadow: 
+    0 2px 2px 0 rgba(0, 0, 0, 0.1),
+    0 2px 2px 0 rgba(0, 0, 0, 0.16);
+}

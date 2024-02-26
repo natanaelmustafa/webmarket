@@ -1,0 +1,58 @@
+{
+    "images":[
+        {
+            "id": 1,
+            "image_name": "p-1",
+            "src": "https://raw.githubusercontent.com/natanaelmustafa/imagens/main/1.png",
+            "price": "R$ 2,00",
+            "product_name": "morango",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.",
+            "rating": "( 250 )"
+        },
+        {
+            "id": 2,
+            "image_name": "p-2",
+            "src": "https://raw.githubusercontent.com/natanaelmustafa/imagens/main/2.png",
+            "price": "R$ 2,00",
+            "product_name": "cebola",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.",
+            "rating": "( 250 )"
+        },
+        {
+            "id": 3,
+            "image_name": "p-3",
+            "src": "https://raw.githubusercontent.com/natanaelmustafa/imagens/main/3.png",
+            "price": "R$ 2,00",
+            "product_name": "tomates",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.",
+            "rating": "( 250 )"
+        },
+        {
+            "id": 4,
+            "image_name": "p-4",
+            "src": "https://raw.githubusercontent.com/natanaelmustafa/imagens/main/4.png",
+            "price": "R$ 2,00",
+            "product_name": "berinjela",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.",
+            "rating": "( 250 )"
+        },
+        {
+            "id": 5,
+            "image_name": "p-5",
+            "src": "https://raw.githubusercontent.com/natanaelmustafa/imagens/main/5.png",
+            "price": "R$ 2,00",
+            "product_name": "brocólis",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.",
+            "rating": "( 250 )"
+        },
+        {
+            "id": 6,
+            "image_name": "p-6",
+            "src": "https://raw.githubusercontent.com/natanaelmustafa/imagens/main/6.png",
+            "price": "R$ 2,00",
+            "product_name": "batata",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.",
+            "rating": "( 250 )"
+        }
+    ]
+}

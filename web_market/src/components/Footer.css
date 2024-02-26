@@ -1,0 +1,20 @@
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.2rem;
+    padding: 10px;
+    background-color: rgb(49, 45, 45);
+    margin-top: 50px;
+    color: rgb(206, 198, 198);
+    height: 60px;
+    
+}
+.logo-footer{
+    width: 40px;
+}
+.brand-text{
+    font-size: 1.4rem;
+    padding-left: 6px;
+    color: goldenrod;
+}
